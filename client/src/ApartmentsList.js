@@ -33,7 +33,7 @@ export default class ApartmentsList extends Component {
         const mappedApartments =  this.state.apartments.map(apartment => <Apartment apartment={apartment} key={apartment.id} />);
 
         return (
-             <div class="container">
+             <div className="container">
             <StyledWrapper>
                 {mappedApartments}
             </StyledWrapper>
