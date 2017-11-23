@@ -1,4 +1,4 @@
-## Interclub Challenge - Frontend
+## McMakler Challenge - Frontend
 
 To get started:
 1. npm install
