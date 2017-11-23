@@ -1,0 +1,21 @@
+{
+  "name": "mcmakler-coding-challenge",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.0",
+    "react": "^16.0.0",
+    "react-bootstrap-table": "^4.1.5",
+    "react-dom": "^16.0.0",
+    "react-responsive-carousel": "^3.1.28",
+    "react-scripts": "1.0.14",
+    "styled-components": "^2.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:4000/"
+}
